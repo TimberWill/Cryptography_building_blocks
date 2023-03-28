@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dea3d53d-2242-4f7d-a1f8-903039ca5e1f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NMlRnGnHVTmWIRJzupD9ifHCjq" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/jars/jpbc-plaf.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ECNU\coding" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BLS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abe.BLS" />
+      <module name="coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BLS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dea3d53d-2242-4f7d-a1f8-903039ca5e1f" name="Default Changelist" comment="" />
+      <created>1679481825404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679481825404</updated>
+      <workItem from="1679481827826" duration="1246000" />
+      <workItem from="1679806112936" duration="111000" />
+      <workItem from="1679986895001" duration="1264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1679987526004">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="176" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1679987526004" />
+    <state x="502" y="186" key="FileChooserDialogImpl" timestamp="1679987502003">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="502" y="186" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1679987502003" />
+    <state x="201" y="5" key="SettingsEditor" timestamp="1679987508069">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="201" y="5" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1679987508069" />
+    <state x="404" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1679806115153">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="404" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1679806115153" />
+    <state x="86" y="125" key="new project wizard" timestamp="1679806210882">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="86" y="125" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1679806210882" />
+  </component>
+</project>
